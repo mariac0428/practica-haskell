@@ -1,6 +1,6 @@
 # practica-haskell
 
-<span style="font-family: Times New Roman, serif;">Participantes</span>
+ ## Participantes 
 
 Maria laura Tafur 
 
