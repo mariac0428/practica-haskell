@@ -14,5 +14,5 @@ Este proyecto es un programa hecho 100% en haskell, esta diseñado para la gesti
 Acá puede ver la explicacion del codigo y su ejecutacion https://youtu.be/EVfPtpl_27I
 
 ## Instrucciones! 
-1. El programa creará el archivo txt cuando se agregue un estudiante y seguirá actualizandose a medida que se agrega el estudiante.
-2. Si queremos acceder al archivo txt al momento de ejecutar otra vez el programa, listamos primero los estudiantes y después agregamos estos.
+1. El programa (Main.hs)  creará el archivo txt cuando se agregue un estudiante y seguirá actualizandose a medida que se agrega el estudiante.
+2. Si queremos acceder al archivo txt al momento de ejecutar otra vez el programa, listamos primero los estudiantes y después hacemos la opcion de agregar a estos. 
